@@ -7,7 +7,7 @@ It’s rarely cost-effective to completely replace a slightly dull blade, but th
 While you could theoretically sharpen a kitchen knife on any surface harder than steel, investing in a **whetstone** is your best bet. These sharpening stones are quite affordable considering the amount you’ll save in the long run. There are two common types of stones — **soaking and splash-and-go**. The former requires five minutes of soaking in water, while the later needs only a quick splash of water before it’s ready to go.
 
 ### Why a Wet Stone?
-The abrasive surface of a whetstone can be rubbed against a blade edge to remove jagged metal particles on the knife, resulting in a smooth finish. If a whetstone is not lubricated with water before use, it will quickly degrade as abrasive particles are ripped off the stone and immediately packed into its pores. Water strengthens these particles and keeps them from breaking off.
+A knife edge can be rubbed against the abrasive surface of a whetstone to remove jagged metal particles on the blade, resulting in a smooth finish. If a whetstone is not lubricated with water before use, it will quickly degrade as abrasive particles are ripped off the stone and immediately packed into its pores. Water strengthens these particles and keeps them from breaking off.
 
 Alternatives to whetstones like **pull-through sharpeners** are typically very affordable at the cost of accuracy. These function by shaving off large pieces of steel, usually producing an uneven edge and removing too much material. Even though they’re marketed for beginners, pull-through devices require a great amount of skill to produce a sharp edge.
 
@@ -32,11 +32,11 @@ It’s not absolutely necessary to have anything other than a whetstone and some
 * A **spray bottle** makes wetting your stone convenient and mess-free.
 
 ## Mastering Technique
-With tools taken care of, you’re ready to begin the sharpening process. Make sure to take your time and don’t panic if you make a mistake, as most issues are repairable.
+With tools taken care of, you’re ready to begin the sharpening process. Make sure to take your time and don’t panic if you make a mistake, as most issues are repairable. Be aware that this guide assumes you're using a **non-serrated, double-beveled knife**, which has a smooth angled edge on both sides. 
 
-1. Set your whetstone on a stable surface like a dedicated holding base, rubber mat, or towel. Additionally, placing a cutting board under this surface is ideal, as it will prevent major damage if your knife happens to slip off. The stone should be perpendicular to you.
+1. Set your whetstone on a stable surface like a dedicated holding base, rubber mat, or towel. Additionally, placing a cutting board under this surface is ideal, as it will prevent major damage if your knife happens to slip off. The stone should be placed perpendicular to you.
 
-2. Ensure you have enough water to keep your whetstone consistently moist. If you have a soak stone, fully submerge it in water until bubbles stop appearing (5-10 minutes). For splash-and-go stones, simply splash some water on the surface and rub it in. If you’re not sure of your [stone type](#types-of-sharpening-tools), it doesn’t hurt to soak it for a few minutes.
+2. Ensure you have enough water to keep your whetstone consistently moist. If you have a soak stone, fully submerge it in water until bubbles stop appearing (5-10 minutes). For a splash-and-go stone, simply splash some water on its surface and rub it in. If you’re not sure of your [stone type](#types-of-sharpening-tools), it doesn’t hurt to soak it for a few minutes.
 
 3. To make a successful sharpening stroke, first guide the knife edge over your stone in a curved motion, starting from the stone side closest to you and pushing away. At the beginning of the motion, start from the top of the knife (closest to the handle) and shift contact closer to the tip as you complete the movement. The entire length of the edge should ultimately make contact with the stone.
 
@@ -45,9 +45,9 @@ With tools taken care of, you’re ready to begin the sharpening process. Make s
 5. For beginners, it’s highly recommended to use a Sharpie or similar marker to determine your sharpening angle. Draw a line of ink along your knive’s **bevel**, which is the inclined portion. Then, you’ll need to make a few preliminary sharpening strokes to find which angle removes the most ink. If you’d like to skip this step, a 17° angle is standard for most kitchen knives.
     1. More ink removed closer to the handle means you need to increase the angle.
     2. More ink removed close to the tip means you need to decrease the angle.
-    3. consistent amount of ink removed along the entire bevel means you’ve found the ideal angle.
+    3. A consistent amount of ink removed along the entire bevel means you’ve found the ideal angle.
 
-6. If you have multiple stones, start at a low grit and work your way up. Assuming you’re working on restoring a dull knife rather than maintaining a sharp one, start with a medium stone and perform 10-15 passes, or cycle (per side if you have a double-beveled knife). Maintain the same amount of pressure for each stroke to achieve a consistent bevel angle.
+6. If you have multiple stones, start at a low grit and work your way up. Assuming you’re working on restoring a dull knife rather than maintaining a sharp one, start with a medium stone and perform 10-15 passes, also called a single **cycle**. Maintain the same amount of pressure for each stroke to achieve a consistent bevel angle.
 
 7. After a few sharpening cycles, you’ll begin to notice a **burr**, which is a raised lip of metal. You can feel for this with your hand by pushing away from the edge and may need to complete multiple cycles before it appears. When you’re confident there is a definite burr, it’s time to remove it. *If you happen to have a finishing stone, go ahead and complete a few cycles per side on it to create a finer burr before removal.*
 
