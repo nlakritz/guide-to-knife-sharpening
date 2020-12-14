@@ -38,7 +38,7 @@ With tools taken care of, you’re ready to begin the sharpening process. Make s
 
 2. Ensure you have enough water to keep your whetstone consistently moist. If you have a soak stone, fully submerge it in water until bubbles stop appearing (5-10 minutes). For a splash-and-go stone, simply splash some water on its surface and rub it in. If you’re not sure of your [stone type](#types-of-sharpening-tools), it doesn’t hurt to soak it for a few minutes.
 
-3. To make a successful sharpening stroke, first guide the knife edge over your stone in a curved motion, starting from the stone side closest to you and pushing away. At the beginning of the motion, start from the top of the knife (closest to the handle) and shift contact closer to the tip as you complete the movement. The entire length of the edge should ultimately make contact with the stone.
+3. To make a successful sharpening stroke, first guide the knife edge over your stone in a curved motion, starting from the stone side closest to you and pushing away. At the beginning of the motion, start from the top of the knife (closest to the handle) and shift contact toward the tip as you complete the movement. The entire length of the edge should ultimately make contact with the stone.
 
 4. Once you complete the initial sharpening motion away from your body, complete the reverse movement without ever breaking contact between knife and stone. Sliding the tip of your blade off the stone may chip it off or even damage the stone itself.
 
@@ -49,14 +49,14 @@ With tools taken care of, you’re ready to begin the sharpening process. Make s
 
 6. If you have multiple stones, start at a low grit and work your way up. Assuming you’re working on restoring a dull knife rather than maintaining a sharp one, start with a medium stone and perform 10-15 passes, also called a single **cycle**. Maintain the same amount of pressure for each stroke to achieve a consistent bevel angle.
 
-7. After a few sharpening cycles, you’ll begin to notice a **burr**, which is a raised lip of metal. You can feel for this with your hand by pushing away from the edge and may need to complete multiple cycles before it appears. When you’re confident there is a definite burr, it’s time to remove it. *If you happen to have a finishing stone, go ahead and complete a few cycles per side with it to create a finer burr before removal.*
+7. After a few sharpening cycles, you’ll begin to notice a **burr**, which is a raised lip of metal. You can feel for this with your hand by pushing away from the edge and may need to complete multiple cycles before it appears. When you’re confident there is a definite burr, it’s time to remove it. Note: if you happen to have a finishing stone, go ahead and complete a few cycles per side with it to create a finer burr before removal.
 
 8. To remove a burr, simply flip the knife over and complete a cycle with very light pressure. If you put on too much pressure, you’ll create a new burr facing the opposite direction.
 
 9. At this point, your knife should be sharpened and ready to go! Be sure to test it out on a soft fruit like a tomato, followed by a standard sheet of paper. You will need to restart the entire sharpening process if it fails to cut through either cleanly.
 
 ## Conclusion
-While there are tons of exotic kitchen knives out there, this tutorial is standard protocol for the vast majority. For info on advanced sharpening techniques, a great resource is the [r/chefknives](https://www.reddit.com/r/chefknives/) subreddit. Additionally, getting the motion right is easiest with a visual aid. Some recommended YouTube channels to check out are [Korin Knives](https://www.youtube.com/user/Korinjapaneseknives/videos) and [Japanese Knife Imports](https://www.youtube.com/c/JKnifeImports/videos). 
+While there are tons of exotic kitchen knives out there, this tutorial is standard protocol for the vast majority. For information on advanced sharpening techniques, a great resource is the [r/chefknives](https://www.reddit.com/r/chefknives/) subreddit. Additionally, getting the motion right is easiest with a visual aid. Some recommended YouTube channels to check out are [Korin Knives](https://www.youtube.com/user/Korinjapaneseknives/videos) and [Japanese Knife Imports](https://www.youtube.com/c/JKnifeImports/videos). 
 
 Hope this guide was helpful!
 
