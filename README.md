@@ -3,7 +3,7 @@ If you’ve ever been fortunate enough to possess a premium kitchen knife, you�
 
 It’s rarely cost-effective to completely replace a slightly dull blade, but the ancient art of knife sharpening can be intimidating for many. This guide will cover the tools you’ll need and some effective sharpening techniques to bring your knife back to its former glory.
 
-## Types of Sharpening Tools
+## Types of Sharpening Tools<a name="types-of-sharpening-tools"></a>
 While you could theoretically sharpen a kitchen knife on any surface harder than steel, investing in a **whetstone** is your best bet. These sharpening stones are quite affordable considering the amount you’ll save in the long run. There are two common types of stones — **soaking and splash-and-go**. The former requires five minutes of soaking in water, while the later needs only a quick splash of water before it’s ready to go.
 
 ### Why a Wet Stone?
@@ -23,3 +23,10 @@ Alternatives to whetstones like **pull-through sharpeners** are typically very a
 *Approximate pricing based on 2020 estimates.
 
 Note that some stones will have two sides, each with a different grit. While most stones will get the job done with no issues, a proven option is the Shapton Pro series.
+
+### Other Useful Tools
+It’s not absolutely necessary to have anything other than a whetstone and some water to achieve a solid knife restoration, but there are plenty of accessories to make the sharpening process easier.
+* **Angle guides** allow for better control in maintaining a consistent angle throughout your sharpening stroke.
+* A wooden or metal **holding base** prevents your whetstone from sliding around and catches excess water.
+* A soft-tip **marker** helps you determine an optimal sharpening angle.
+* A **spray bottle** makes wetting your stone convenient and mess-free.
