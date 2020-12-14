@@ -32,7 +32,7 @@ It’s not absolutely necessary to have anything other than a whetstone and some
 * A **spray bottle** makes wetting your stone convenient and mess-free.
 
 ## Mastering Technique
-With tools taken care of, you’re ready to begin the sharpening process. Make sure to take your time and don’t panic if you make a mistake, as most issues are repairable. Be aware that this guide assumes you're using a **non-serrated, double-beveled knife**, which has a smooth angled edge on both sides. 
+With tools taken care of, you’re ready to begin the sharpening process. Make sure to take your time and don’t panic if you make a mistake, as most issues are repairable. Be aware that the following steps assume you're using a **non-serrated, double-beveled knife**, which has a smooth, angled edge on both sides. 
 
 1. Set your whetstone on a stable surface like a dedicated holding base, rubber mat, or towel. Additionally, placing a cutting board under this surface is ideal, as it will prevent major damage if your knife happens to slip off. The stone should be placed perpendicular to you.
 
@@ -44,16 +44,16 @@ With tools taken care of, you’re ready to begin the sharpening process. Make s
 
 5. For beginners, it’s highly recommended to use a Sharpie or similar marker to determine your sharpening angle. Draw a line of ink along your knive’s **bevel**, which is the inclined portion. Then, you’ll need to make a few preliminary sharpening strokes to find which angle removes the most ink. If you’d like to skip this step, a 17° angle is standard for most kitchen knives.
     1. More ink removed closer to the handle means you need to increase the angle.
-    2. More ink removed close to the tip means you need to decrease the angle.
+    2. More ink removed closer to the tip means you need to decrease the angle.
     3. A consistent amount of ink removed along the entire bevel means you’ve found the ideal angle.
 
 6. If you have multiple stones, start at a low grit and work your way up. Assuming you’re working on restoring a dull knife rather than maintaining a sharp one, start with a medium stone and perform 10-15 passes, also called a single **cycle**. Maintain the same amount of pressure for each stroke to achieve a consistent bevel angle.
 
-7. After a few sharpening cycles, you’ll begin to notice a **burr**, which is a raised lip of metal. You can feel for this with your hand by pushing away from the edge and may need to complete multiple cycles before it appears. When you’re confident there is a definite burr, it’s time to remove it. *If you happen to have a finishing stone, go ahead and complete a few cycles per side on it to create a finer burr before removal.*
+7. After a few sharpening cycles, you’ll begin to notice a **burr**, which is a raised lip of metal. You can feel for this with your hand by pushing away from the edge and may need to complete multiple cycles before it appears. When you’re confident there is a definite burr, it’s time to remove it. *If you happen to have a finishing stone, go ahead and complete a few cycles per side with it to create a finer burr before removal.*
 
-8. To remove a burr, simply flip the knife over and complete a cycle with very light pressure. If you put on too much pressure, you’ll create another burr facing the opposite direction.
+8. To remove a burr, simply flip the knife over and complete a cycle with very light pressure. If you put on too much pressure, you’ll create a new burr facing the opposite direction.
 
-9. At this point your knife should be sharpened and ready to go! Be sure to test it out on a soft fruit like a tomato, followed by a standard sheet of paper. You will need to restart the entire sharpening process if it fails to cut through either cleanly.
+9. At this point, your knife should be sharpened and ready to go! Be sure to test it out on a soft fruit like a tomato, followed by a standard sheet of paper. You will need to restart the entire sharpening process if it fails to cut through either cleanly.
 
 ## Conclusion
 While there are tons of exotic kitchen knives out there, this tutorial is standard protocol for the vast majority. For info on advanced sharpening techniques, a great resource is the [r/chefknives](https://www.reddit.com/r/chefknives/) subreddit. Additionally, getting the motion right is easiest with a visual aid. Some recommended YouTube channels to check out are [Korin Knives](https://www.youtube.com/user/Korinjapaneseknives/videos) and [Japanese Knife Imports](https://www.youtube.com/c/JKnifeImports/videos). 
