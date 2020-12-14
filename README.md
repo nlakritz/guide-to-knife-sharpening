@@ -22,7 +22,7 @@ Alternatives to whetstones like **pull-through sharpeners** are typically very a
 
 *Approximate pricing based on 2020 estimates.
 
-Note that some stones will have two sides, each with a different grit. While most stones will get the job done with no issues, a proven option is the Shapton Pro series.
+Note that some stones will have two sides, each with a different grit. While most stones will get the job done with no issues, a proven option is the [Shapton Pro series](https://www.chefknivestogo.com/shaptonpro.html).
 
 ### Other Useful Tools
 It’s not absolutely necessary to have anything other than a whetstone and some water to achieve a solid knife restoration, but there are plenty of accessories to make the sharpening process easier.
@@ -38,18 +38,18 @@ With tools taken care of, you’re ready to begin the sharpening process. Make s
 
 2. Ensure you have enough water to keep your whetstone consistently moist. If you have a soak stone, fully submerge it in water until bubbles stop appearing (5-10 minutes). For splash-and-go stones, simply splash some water on the surface and rub it in. If you’re not sure of your [stone type](#types-of-sharpening-tools), it doesn’t hurt to soak it for a few minutes.
 
-3. To make a successful sharpening stroke, first guide the knife edge over your stone in a curved motion, starting from the stone side closest to you and pushing away. At the beginning of the motion, start from the top of the knife (closest to the handle) and shift contact closer to the tip as you complete the movement. The entire bevel length should ultimately make contact with the stone.
+3. To make a successful sharpening stroke, first guide the knife edge over your stone in a curved motion, starting from the stone side closest to you and pushing away. At the beginning of the motion, start from the top of the knife (closest to the handle) and shift contact closer to the tip as you complete the movement. The entire length of the edge should ultimately make contact with the stone.
 
 4. Once you complete the initial sharpening motion away from your body, complete the reverse movement without ever breaking contact between knife and stone. Sliding the tip of your blade off the stone may chip it off or even damage the stone itself.
 
-5. For beginners, it’s highly recommended to use a Sharpie or similar marker to determine your sharpening angle. Draw a line of ink along your knive’s bevel, which is the inclined portion. Then, you’ll need to make a few preliminary sharpening strokes to find which angle removes the most ink. If you’d like to skip this step, a 17° angle is standard for most kitchen knives.
+5. For beginners, it’s highly recommended to use a Sharpie or similar marker to determine your sharpening angle. Draw a line of ink along your knive’s **bevel**, which is the inclined portion. Then, you’ll need to make a few preliminary sharpening strokes to find which angle removes the most ink. If you’d like to skip this step, a 17° angle is standard for most kitchen knives.
     1. More ink removed closer to the handle means you need to increase the angle.
     2. More ink removed close to the tip means you need to decrease the angle.
     3. consistent amount of ink removed along the entire bevel means you’ve found the ideal angle.
 
 6. If you have multiple stones, start at a low grit and work your way up. Assuming you’re working on restoring a dull knife rather than maintaining a sharp one, start with a medium stone and perform 10-15 passes, or cycle (per side if you have a double-beveled knife). Maintain the same amount of pressure for each stroke to achieve a consistent bevel angle.
 
-7. After a few sharpening cycles, you’ll begin to notice a burr, which is a raised lip of metal. You can feel for this with your hand by pushing away from the edge and may need to complete multiple cycles before it appears. When you’re confident there is a definite burr, it’s time to remove it. (If you happen to have a finishing stone, go ahead and complete a few cycles per side on it to create a finer burr before removal.)
+7. After a few sharpening cycles, you’ll begin to notice a **burr**, which is a raised lip of metal. You can feel for this with your hand by pushing away from the edge and may need to complete multiple cycles before it appears. When you’re confident there is a definite burr, it’s time to remove it. *If you happen to have a finishing stone, go ahead and complete a few cycles per side on it to create a finer burr before removal.*
 
 8. To remove a burr, simply flip the knife over and complete a cycle with very light pressure. If you put on too much pressure, you’ll create another burr facing the opposite direction.
 
